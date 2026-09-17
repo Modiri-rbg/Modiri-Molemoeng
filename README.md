@@ -8,3 +8,5 @@ Tools- Git, Docker, Power BI, WSL, Ubuntu, PostgreSQL, .NET
 Frameworks: Express.js, Node.js, app.js, Springboot
 Others: REST API
 
+
+CV Link:https://github.com/Modiri-rbg/Modiri-Molemoeng-CV/blob/main/Modiri%20Molemoeng%20CV%20(1).pdf
