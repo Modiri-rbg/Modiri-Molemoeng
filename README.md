@@ -5,4 +5,6 @@ Very Curious and passionate about IT and new projects. I want to learn and disco
 I am currently seeking internship or graduate opportunities in software engineering 
 SKILLS: Programming- JavaScript, HTML, CSS, SQL, C#, JAVA
 Tools- Git, Docker, Power BI, WSL, Ubuntu, PostgreSQL, .NET
+Frameworks: Express.js, Node.js, app.js, Springboot
+Others: REST API
 
